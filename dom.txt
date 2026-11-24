@@ -1,0 +1,15 @@
+document object model=DOM    19-11-2026 thursday
+
+-Trees of nodes /elements craeted by browser
+-JS can read , write and manipulate to DOM
+-OOR object oriented representation
+
+Dom manipulation
+-access the elements
+ -using unique ID
+ -className
+ -tagName
+ -custom css selector
+-store,map the elements
+-
+
